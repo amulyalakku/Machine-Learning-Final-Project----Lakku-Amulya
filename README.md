@@ -1,8 +1,8 @@
 # Machine-Learning-Final-Project--Lakku-Amulya
 
 
-#### Dataset Name: Mobile Price Classification
-#### Dataset Link: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification?resource=download&select=train.csv
+#### Dataset Name: Airline Passenger Satisfaction
+#### Dataset Link: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction
 #### Dataset Source: kaggle
 
 
