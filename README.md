@@ -58,6 +58,12 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 **Satisfaction**: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
 
+# Univariate Variable Analysis:
+
+**Categorical Variables**: Inflight wifi service, Departure/Arrival time convenient, Ease of Online booking, Gate location, Food and drink, Online boarding, Seat comfort, Inflight entertainment, On-board service, Leg room service, Baggage handling, Checkin service, Inflight service, Cleanliness,Gender, Customer Type, Type of Travel, Class and satisfaction.
+
+**Numerical Variables**: id, Age, Flight Distance, Departure Delay in Minutes, Arrival Delay in Minutes
+
 
 
 
