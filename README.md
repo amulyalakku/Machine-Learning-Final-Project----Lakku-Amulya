@@ -8,7 +8,9 @@
 
 This dataset contains an airline passenger satisfaction survey. What factors are highly correlated to a satisfied (or dissatisfied) passenger? Can we predict passenger satisfaction?
 
-# Content: 
+# Variable Description: 
+
+**id** : Unique id number to each passenger.
 
 **Gender**: Gender of the passengers (Female, Male)
 
@@ -55,5 +57,9 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 **Arrival Delay in Minutes**: Minutes delayed when Arrival
 
 **Satisfaction**: Airline satisfaction level(Satisfaction, neutral or dissatisfaction)
+
+
+
+
 
 
