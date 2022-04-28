@@ -221,7 +221,7 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 # Correlation Matrix of All features
 
-<p align="left"> <img src="./Corr.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./Corr.png" align="middle" width="900"/></p>
 
 ### Insights: We select features that has relatively high correlation score (greater than 0.3) with satisfaction in the last column. 
 
