@@ -83,7 +83,14 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 19. satisfaction values : ['neutral or dissatisfied' 'satisfied'] <p align="left"> <img src="./Count_Plot/S.png" align="middle" width="500"/></p>
 
 
-**Numerical Variables**: id, Age, Flight Distance, Departure Delay in Minutes, Arrival Delay in Minutes
+**Numerical Variables**: 
+20. id <p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+22. Age <p align="left"> <img src="./Count_Plot/A.png" align="middle" width="500"/></p>
+23. Flight Distance <p align="left"> <img src="./Count_Plot/FD.png" align="middle" width="500"/></p>
+24. Departure Delay in Minutes <p align="left"> <img src="./Count_Plot/DD.png" align="middle" width="500"/></p>
+25. Arrival Delay in Minutes <p align="left"> <img src="./Count_Plot/ADM.png" align="middle" width="500"/></p>
+
+
 
 
 
