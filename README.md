@@ -62,25 +62,25 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 **Categorical Variables**: 
 
-1. Inflight wifi service values : [3 2 4 1 5 0]
-2. Departure/Arrival time convenient values : [4 2 5 3 1 0]
-3. Ease of Online booking values : [3 2 5 4 1 0]
-4. Gate location values : [1 3 2 5 4 0]
-5. Food and drink values : [5 1 2 4 3 0]
-6. Online boarding values : [3 5 2 1 4 0]
-7. Seat comfort values : [5 1 2 3 4 0]
-8. Inflight entertainment values : [5 1 2 3 4 0]
-9. On-board service values : [4 1 2 3 5 0]
-10. Leg room service values : [3 5 4 2 1 0]
-11. Baggage handling values : [4 3 5 1 2]
-12. Checkin service values : [4 1 3 5 2 0]
-13. Inflight service values : [5 4 3 1 2 0]
-14. Cleanliness values : [5 1 2 3 4 0]
-15. Gender values : ['Male' 'Female']
-16. Customer Type values : ['Loyal Customer' 'disloyal Customer']
-17. Type of Travel values : ['Personal Travel' 'Business travel']
-18. Class values : ['Eco Plus' 'Business' 'Eco']
-19. satisfaction values : ['neutral or dissatisfied' 'satisfied']
+1. Inflight wifi service values : [3 2 4 1 5 0] <p align="left"> <img src="./Count_Plot/IWS.png" align="middle" width="500"/></p>
+2. Departure/Arrival time convenient values : [4 2 5 3 1 0] <p align="left"> <img src="./Count_Plot/DATC.png" align="middle" width="500"/></p>
+3. Ease of Online booking values : [3 2 5 4 1 0] <p align="left"> <img src="./Count_Plot/EOB.png" align="middle" width="500"/></p>
+4. Gate location values : [1 3 2 5 4 0] <p align="left"> <img src="./Count_Plot/GL.png" align="middle" width="500"/></p>
+5. Food and drink values : [5 1 2 4 3 0] <p align="left"> <img src="./Count_Plot/F&D.png" align="middle" width="500"/></p>
+6. Online boarding values : [3 5 2 1 4 0] <p align="left"> <img src="./Count_Plot/OB.png" align="middle" width="500"/></p>
+7. Seat comfort values : [5 1 2 3 4 0] <p align="left"> <img src="./Count_Plot/SC.png" align="middle" width="500"/></p>
+8. Inflight entertainment values : [5 1 2 3 4 0] <p align="left"> <img src="./Count_Plot/IE.png" align="middle" width="500"/></p>
+9. On-board service values : [4 1 2 3 5 0] <p align="left"> <img src="./Count_Plot/OBS.png" align="middle" width="500"/></p>
+10. Leg room service values : [3 5 4 2 1 0] <p align="left"> <img src="./Count_Plot/LRS.png" align="middle" width="500"/></p>
+11. Baggage handling values : [4 3 5 1 2] <p align="left"> <img src="./Count_Plot/BH.png" align="middle" width="500"/></p>
+12. Checkin service values : [4 1 3 5 2 0] <p align="left"> <img src="./Count_Plot/CS.png" align="middle" width="500"/></p>
+13. Inflight service values : [5 4 3 1 2 0] <p align="left"> <img src="./Count_Plot/IS.png" align="middle" width="500"/></p>
+14. Cleanliness values : [5 1 2 3 4 0] <p align="left"> <img src="./Count_Plot/C.png" align="middle" width="500"/></p>
+15. Gender values : ['Male' 'Female'] <p align="left"> <img src="./Count_Plot/G.png" align="middle" width="500"/></p>
+16. Customer Type values : ['Loyal Customer' 'disloyal Customer'] <p align="left"> <img src="./Count_Plot/CT.png" align="middle" width="500"/></p>
+17. Type of Travel values : ['Personal Travel' 'Business travel'] <p align="left"> <img src="./Count_Plot/TT.png" align="middle" width="500"/></p>
+18. Class values : ['Eco Plus' 'Business' 'Eco'] <p align="left"> <img src="./Count_Plot/CL.png" align="middle" width="500"/></p>
+19. satisfaction values : ['neutral or dissatisfied' 'satisfied'] <p align="left"> <img src="./Count_Plot/S.png" align="middle" width="500"/></p>
 
 
 **Numerical Variables**: id, Age, Flight Distance, Departure Delay in Minutes, Arrival Delay in Minutes
