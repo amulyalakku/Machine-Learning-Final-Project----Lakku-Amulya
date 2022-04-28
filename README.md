@@ -151,7 +151,7 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 <p align="left"> <img src="./TargetColumn/IWS_hue.png" align="middle" width="500"/></p>
 
-### Insights: Most of those who give 0 to wifi service on the plane are satisfied with the flight. It seems that wifi service is not that important.
+### Insights: People who give 0 to wifi service on the plane are also satisfied with the flight. It can be reason that wifi service is not that important.
 
 ## Inflight_entertainment --> satisfaction
 
@@ -167,7 +167,7 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 <p align="left"> <img src="./TargetColumn/FD_hue.png" align="middle" width="500"/></p>
 
-### Insights: 20% of the passengers who do not like the food are satisfied with the flight.
+### Insights: 20% of the passengers who do not like the food are also satisfied with the flight.
 
 ## Seat_comfort --> satisfaction
 
@@ -175,65 +175,49 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 <p align="left"> <img src="./TargetColumn/sc_hue.png" align="middle" width="500"/></p>
 
-### Insights: 
+### Insights: It is seen that customers with seat comfort rating 4 and 5 are most satisfied.
 
 ## Baggage_Handling --> satisfaction
 
 <p align="left"> <img src="./TargetColumn/BH_hue.png" align="middle" width="500"/></p>
 
-### Insights: 
+### Insights: Flight services with good Baggage Handling make people more satisfied.
 
 ## Check-in_service --> satisfaction
 
 <p align="left"> <img src="./TargetColumn/CS_hue.png" align="middle" width="500"/></p>
 
-### Insights: 
+### Insights: Ease of check in to the flight makes people satisfied.
 
 ## Gate_Location --> satisfaction
 
 <p align="left"> <img src="./TargetColumn/GL_hue.png" align="middle" width="500"/></p>
 
-### Insights: 
+### Insights: Gate location 3 is the most uncomfortable location for many people.
 
 ## Inflight_service --> satisfaction
 
 <p align="left"> <img src="./TargetColumn/IS_hue.png" align="middle" width="500"/></p>
 
-### Insights: 
-
-## Inflight_wifi_service --> satisfaction
-
-<p align="left"> <img src="./TargetColumn/IWS_hue.png" align="middle" width="500"/></p>
-
-### Insights: 
+### Insights: Good Inflight service is necessary for customer satisfaction
 
 ## Leg_room_service --> satisfaction
 
 <p align="left"> <img src="./TargetColumn/LRS_hue.png" align="middle" width="500"/></p>
 
-### Insights: 
-
-## Leg_room_service --> satisfaction
-
-<p align="left"> <img src="./TargetColumn/OB_hue.png" align="middle" width="500"/></p>
-
-### Insights: 
+### Insights: Having a good leg space is necessary for customer satisfaction 
 
 ## Online_boarding --> satisfaction
 
 <p align="left"> <img src="./TargetColumn/OB_hue.png" align="middle" width="500"/></p>
 
-### Insights: 
+### Insights: Online boarding facility affects customer satisfaction.
 
 ## On-board_service --> satisfaction
 
 <p align="left"> <img src="./TargetColumn/OBS_hue.png" align="middle" width="500"/></p>
 
-### Insights: 
+### Insights: Onboard service also affects customer satisfaction.
 
-## Seat_comfort --> satisfaction
 
-<p align="left"> <img src="./TargetColumn/sc_hue.png" align="middle" width="500"/></p>
-
-### Insights: 
 
