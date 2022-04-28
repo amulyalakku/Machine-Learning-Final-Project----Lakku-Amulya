@@ -95,43 +95,63 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 ## Gender --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/gen_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/gen_hue.png" align="middle" width="500"/></p>
 
 ## Age --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/age_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/age_hue.png" align="middle" width="500"/></p>
 
 ## Type_of_Travel --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/TT_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/TT_hue.png" align="middle" width="500"/></p>
 
 ## Class --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/Class_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/class_hue.png" align="middle" width="500"/></p>
 
 ## Customer_Type --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/CT_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/CT_hue.png" align="middle" width="500"/></p>
 
 ## Cleanliness --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/clean_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/clean_hue.png" align="middle" width="500"/></p>
 
 ## Inflight_wifi_service --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/IWS_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/IWS_hue.png" align="middle" width="500"/></p>
 
 ## Inflight_entertainment --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/IE_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/IE_hue.png" align="middle" width="500"/></p>
 
 ## Food_and_drink --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/FD_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/FD_hue.png" align="middle" width="500"/></p>
 
 ## Seat_comfort --> satisfaction
 
-<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./TargetColumn/sc_sat.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./TargetColumn/sc_hue.png" align="middle" width="500"/></p>
 
 
 
