@@ -91,6 +91,49 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 24. Departure Delay in Minutes <p align="left"> <img src="./Count_Plot/DD.png" align="middle" width="500"/></p>
 25. Arrival Delay in Minutes <p align="left"> <img src="./Count_Plot/ADM.png" align="middle" width="500"/></p>
 
+# Analyzing all the columns vs the target column
+
+## Gender --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Age --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Type_of_Travel --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Class --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Customer_Type --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Cleanliness --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Inflight_wifi_service --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Inflight_entertainment --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Food_and_drink --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+## Seat_comfort --> satisfaction
+
+<p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
+
+
 
 
 
