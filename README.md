@@ -103,8 +103,6 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 <p align="left"> <img src="./TargetColumn/age_sat.png" align="middle" width="500"/></p>
 
-<p align="left"> <img src="./TargetColumn/age_hue.png" align="middle" width="500"/></p>
-
 ## Type_of_Travel --> satisfaction
 
 <p align="left"> <img src="./TargetColumn/TT_sat.png" align="middle" width="500"/></p>
@@ -153,11 +151,43 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 <p align="left"> <img src="./TargetColumn/sc_hue.png" align="middle" width="500"/></p>
 
+## Baggage_Handling --> satisfaction
 
+<p align="left"> <img src="./TargetColumn/BH_hue.png" align="middle" width="500"/></p>
 
+## Check-in_service --> satisfaction
 
+<p align="left"> <img src="./TargetColumn/CS_hue.png" align="middle" width="500"/></p>
 
+## Gate_Location --> satisfaction
 
+<p align="left"> <img src="./TargetColumn/GL_hue.png" align="middle" width="500"/></p>
 
+## Inflight_service --> satisfaction
 
+<p align="left"> <img src="./TargetColumn/IS_hue.png" align="middle" width="500"/></p>
+
+## Inflight_wifi_service --> satisfaction
+
+<p align="left"> <img src="./TargetColumn/IWS_hue.png" align="middle" width="500"/></p>
+
+## Leg_room_service --> satisfaction
+
+<p align="left"> <img src="./TargetColumn/LRS_hue.png" align="middle" width="500"/></p>
+
+## Leg_room_service --> satisfaction
+
+<p align="left"> <img src="./TargetColumn/OB_hue.png" align="middle" width="500"/></p>
+
+## Online_boarding --> satisfaction
+
+<p align="left"> <img src="./TargetColumn/OB_hue.png" align="middle" width="500"/></p>
+
+## On-board_service --> satisfaction
+
+<p align="left"> <img src="./TargetColumn/OBS_hue.png" align="middle" width="500"/></p>
+
+## Seat_comfort --> satisfaction
+
+<p align="left"> <img src="./TargetColumn/sc_hue.png" align="middle" width="500"/></p>
 
