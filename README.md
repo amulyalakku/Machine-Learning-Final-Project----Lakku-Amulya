@@ -84,6 +84,7 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 
 **Numerical Variables**: 
+
 20. id <p align="left"> <img src="./Count_Plot/ID.png" align="middle" width="500"/></p>
 22. Age <p align="left"> <img src="./Count_Plot/A.png" align="middle" width="500"/></p>
 23. Flight Distance <p align="left"> <img src="./Count_Plot/FD.png" align="middle" width="500"/></p>
