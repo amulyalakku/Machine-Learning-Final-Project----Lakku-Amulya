@@ -296,25 +296,37 @@ In the confusion matrix we can see where our mistakes are.
 
 ### Experimenting by changing Test Set and Training Set Ratio
 
+Initially I have taken the proportion of 10% Test set and 90% Training set and trained the models. The below two images are the performance on the evaluations.
+
 <p align="left"> <img src="./Part_2/10pSplit.png" align="middle" width="500"/></p>
 
 <p align="left"> <img src="./Part_2/Comp_10.png" align="middle" width="500"/></p>
+
+Later I have taken the proportion of 10 to 90 on the Test set and trained the models. The below two images are the performance on the evaluations.
 
 <p align="left"> <img src="./Part_2/DSP_table.png" align="middle" width="500"/></p>
 
 <p align="left"> <img src="./Part_2/DSP.png" align="middle" width="500"/></p>
 
+I observed very minute differnece on the performance.
+
 ## Visualizing the performance of the decision tree classifier
 
 <p align="left"> <img src="./Part_2/DT_graph.png" align="middle" width="500"/></p>
+
+Plotted the Decision Tree visualization to understand the performance of Decision Tree classification.
 
 ## Visualizing the performance of Logistic Regression Model
 
 <p align="left"> <img src="./Part_2/Log_Reg_Perf.png" align="middle" width="500"/></p>
 
+Plotted the Logistic Regression model visualization by observing the positive rate vs negative rate to understand the performance of Logistic Regression classification.
+
 ## Comparing the Performance for both the models
 
 <p align="left"> <img src="./Part_2/Compare_Performance.png" align="middle" width="500"/></p>
+
+The Decision Tree performs the best in terms of classification. It can be clearly understood through the decision boundaries drawn
 
 ## Residual Plots for Logistic Regression
 
