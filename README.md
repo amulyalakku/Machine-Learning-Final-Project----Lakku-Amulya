@@ -337,3 +337,5 @@ I observed the boundary of decision regions plotted by the models on training da
 Linear Regression Accuracy is 0.5469628723190088
 
 # Conclusions
+
+**It is understood that Linear regression doesnt suit the purpose of classification and can be used for regression where as Logistic regression and Decision Tree classifier are the best models for classification tasks. Out of Logistic Regression and Decision Tree classification, Decision Tree classification performs the best.**
