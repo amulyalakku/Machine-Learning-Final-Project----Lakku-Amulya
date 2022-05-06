@@ -234,20 +234,40 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 ## Finding Missing value
 
+Arrival_Delay_in_Minutes has 310 missing values from the below details.
+
+<p align="left"> <img src="./Part_2/MV.png" align="middle" width="500"/></p>
 
 ## Dealing with Missing value
 
+Arrival_Delay_in_Minutes has 310 missing values Since I do not know the flight delay time, I will try a different method. I will fill the nan values with the average flight delay time. Because I don't want my model to be affected by this parameter.
+
 ## Dropping Column ID
 
+The column ID dint seem of much importance for Prediction usage so dropped the Column named ID.
+
 ## Feature Encoding
+
+### Our aim in this section is to bring out new features.
 
 <p align="left"> <img src="./Part_2/Type_of_Travel.png" width="300"/></p> <p align="left"> <img src="./Part_2/NoPass.png" width="300"/></p> <p align="left"> <img src="./Part_2/Cust_Type.png" width="300"/></p> <p align="left"> <img src="./Part_2/GenderEnc.png" width="300"/></p>
 
 ## Data Normalization
 
+Perfomed Min-Max normalization for the numerical features of the data.
 
+The min-max approach (often called normalization) rescales the feature to a hard and fast range of [0,1] by subtracting the minimum value of the feature then dividing by the range. 
 
 ## Data Splitting
+
+The Data is split in the ration of 90% Training Data and 10% Test Data.
+
+#### X_train 93513
+#### X_test 10391
+#### y_train 93513
+#### y_test 10391
+
+#### Baseline accuracy :  0.5673178712347223
 
 ## Training
 
@@ -255,9 +275,22 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 <p align="left"> <img src="./Part_2/LogReg.png" align="middle" width="500"/></p>
 
+In the confusion matrix we can see where our mistakes are.
+0:satisfied, 1: neutral or dissatisfied.
+
+#### Training Accuracy for LogisticRegression: % 87.51
+#### Test Accuracy for LogisticRegression: % 87.54
+
+12.5% error margin is not good for this data.
+
 ### Decision Tree Classification
 
 <p align="left"> <img src="./Part_2/DT.png" align="middle" width="500"/></p>
+In the confusion matrix we can see where our mistakes are.
+0:satisfied, 1: neutral or dissatisfied.
+
+#### Training Accuracy for DecisionTreeClassifier: % 100.0
+#### Test Accuracy for DecisionTreeClassifier: % 94.06
 
 ## Post Model Analysis
 
