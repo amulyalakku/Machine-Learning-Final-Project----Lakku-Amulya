@@ -330,6 +330,10 @@ The Decision Tree performs the best in terms of classification. It can be clearl
 
 I observed the boundary of decision regions plotted by the models on training data. Also I observe the number of misclassified data points in the plots
 
-## Residual Plots for Logistic Regression
+## Residual Plots for Linear Regression
+
+<p align="left"> <img src="./Part_2/ResidualPlot.png" align="middle" width="500"/></p>
+
+Linear Regression Accuracy is 0.5469628723190088
 
 # Conclusions
