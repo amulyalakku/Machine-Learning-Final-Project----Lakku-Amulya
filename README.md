@@ -326,7 +326,9 @@ Plotted the Logistic Regression model visualization by observing the positive ra
 
 <p align="left"> <img src="./Part_2/Compare_Performance.png" align="middle" width="500"/></p>
 
-The Decision Tree performs the best in terms of classification. It can be clearly understood through the decision boundaries drawn
+The Decision Tree performs the best in terms of classification. It can be clearly understood through the decision boundaries drawn.
+
+I observed the boundary of decision regions plotted by the models on training data. Also I observe the number of misclassified data points in the plots
 
 ## Residual Plots for Logistic Regression
 
