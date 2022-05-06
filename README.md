@@ -230,7 +230,10 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 ## Distribution of classes
 
+<p align="left"> <img src="./Part_2/Dist.png" align="middle" width="500"/></p>
+
 ## Finding Missing value
+
 
 ## Dealing with Missing value
 
@@ -238,7 +241,11 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 ## Feature Encoding
 
+<p align="left"> <img src="./Part_2/Type_of_Travel.png" width="300"/></p> <p align="left"> <img src="./Part_2/NoPass.png" width="300"/></p> <p align="left"> <img src="./Part_2/Cust_Type.png" width="300"/></p> <p align="left"> <img src="./Part_2/GenderEnc.png" width="300"/></p>
+
 ## Data Normalization
+
+
 
 ## Data Splitting
 
@@ -246,17 +253,35 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 ### Logistic Regression
 
+<p align="left"> <img src="./Part_2/LogReg.png" align="middle" width="500"/></p>
+
 ### Decision Tree Classification
+
+<p align="left"> <img src="./Part_2/DT.png" align="middle" width="500"/></p>
 
 ## Post Model Analysis
 
 ### Experimenting by changing Test Set and Training Set Ratio
 
+<p align="left"> <img src="./Part_2/10pSplit.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./Part_2/Comp_10.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./Part_2/DSP_table.png" align="middle" width="500"/></p>
+
+<p align="left"> <img src="./Part_2/DSP.png" align="middle" width="500"/></p>
+
 ## Visualizing the performance of the decision tree classifier
+
+<p align="left"> <img src="./Part_2/DSP.png" align="middle" width="500"/></p>
 
 ## Visualizing the performance of Logistic Regression Model
 
+<p align="left"> <img src="./Part_2/Log_Reg_Perf.png" align="middle" width="500"/></p>
+
 ## Comparing the Performance for both the models
+
+<p align="left"> <img src="./Part_2/Compare_Performance.png" align="middle" width="500"/></p>
 
 ## Residual Plots for Logistic Regression
 
