@@ -273,7 +273,7 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 ## Visualizing the performance of the decision tree classifier
 
-<p align="left"> <img src="./Part_2/DSP.png" align="middle" width="500"/></p>
+<p align="left"> <img src="./Part_2/DT_graph.png" align="middle" width="500"/></p>
 
 ## Visualizing the performance of Logistic Regression Model
 
