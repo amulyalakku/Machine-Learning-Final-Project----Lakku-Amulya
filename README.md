@@ -226,4 +226,38 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 ### Insights: We select features that has relatively high correlation score (greater than 0.3) with satisfaction in the last column. 
 
 
+# Data Preparation
 
+## Distribution of classes
+
+## Finding Missing value
+
+## Dealing with Missing value
+
+## Dropping Column ID
+
+## Feature Encoding
+
+## Data Normalization
+
+## Data Splitting
+
+## Training
+
+### Logistic Regression
+
+### Decision Tree Classification
+
+## Post Model Analysis
+
+### Experimenting by changing Test Set and Training Set Ratio
+
+## Visualizing the performance of the decision tree classifier
+
+## Visualizing the performance of Logistic Regression Model
+
+## Comparing the Performance for both the models
+
+## Residual Plots for Logistic Regression
+
+# Conclusions
