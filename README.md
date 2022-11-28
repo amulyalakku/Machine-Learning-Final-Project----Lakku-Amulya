@@ -219,7 +219,7 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 
 ### Insights: Onboard service also affects customer satisfaction.
 
-# Correlation Matrix of All features
+# Heat Map of All features
 
 <p align="left"> <img src="./Corr.png" align="middle" width="900"/></p>
 
